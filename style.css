@@ -36,10 +36,11 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: white;
+    color: black;
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: rgb(71, 71, 71);
+    background-color: white;
+    @import url(https://fonts.googleapis.com/css?family=Reenie+Beanie);
 }
 
 /* Three column grid with a nice big gap */
