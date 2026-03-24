@@ -9,6 +9,11 @@ html {
     font-family: Arial, sans-serif;
     box-sizing: border-box;
     background-color: rgb(84, 127, 109);
+    /* style.css */
+    cursor: url('images/cursor.png') 64 64, auto;
+}
+.custom-btn {
+    cursor: url('images/cursor.png') 64 64, pointer;
 }
 
 /* reset for images to ensure they ar 100% of the parent container width */
